@@ -1,12 +1,12 @@
 {
-  "name": "grunt-contrib-jasmine",
+  "name": "grunt-contrib-jasmine-latest",
   "description": "Run jasmine specs headlessly through PhantomJS",
   "version": "1.1.0",
   "author": {
-    "name": "Grunt Team",
+    "name": "hemant Kumar Tewtia",
     "url": "http://gruntjs.com/"
   },
-  "repository": "gruntjs/grunt-contrib-jasmine",
+  "repository": "hemantsingh011/grunt-contrib-jasmine",
   "license": "MIT",
   "engines": {
     "node": ">=0.10.0"
